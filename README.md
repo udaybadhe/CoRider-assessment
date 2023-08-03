@@ -35,7 +35,7 @@ cd flask-mongodb-crud
 
 ```
 python -m venv venv
-source venv/bin/activate    # For Windows: venv\Scripts\activate
+source venv/bin/activate
 ```
 
 3. Install the required packages:
